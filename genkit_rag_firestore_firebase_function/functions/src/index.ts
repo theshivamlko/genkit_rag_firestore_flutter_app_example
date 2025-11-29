@@ -129,7 +129,7 @@ const ragFlow = ai.defineFlow({
         console.log('===> Database Updates');
 
 
-        
+        // Run CLI
         console.log('===> Indexing Done');
 
 
